@@ -1,4 +1,5 @@
 # devops-capstone-project
+![Build Status](https://github.com/sruiz9122/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 Customer Accounts microservice developed as the final DevOps capstone project.
 
