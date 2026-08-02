@@ -1,0 +1,4 @@
+REPOSITORY                          TAG       IMAGE ID       CREATED         SIZE
+us.icr.io/sn-labs-sruizb/accounts   1         56f2e877d702   5 minutes ago   204MB
+accounts                            latest    56f2e877d702   5 minutes ago   204MB
+postgres                            alpine    bb46dc8bfad7   22 months ago   248MB
